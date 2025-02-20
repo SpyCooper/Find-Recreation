@@ -14,6 +14,9 @@ testdir: testdir.tar.gz
 
 .PHONY: test
 test: find testdir
+	chmod +rx test.*
+	chmod +rx testdir/*
+	chmod +rx runtest
 	tar -xf testdir.tar.gz
 	-./test.e1
 	-./test.e2
