@@ -36,6 +36,6 @@ Each of the individual test can be run by running the shell script with a compil
 
 ## Credit
 
-All files that are not `find.cc` or the `README.ME` were made by Shawn Ostermann. They are there to for future use if the `find.cc` needs to be reran.
+All files that are not `find.cc` or the `README.ME` were made by Dr.Shawn Ostermann. They are there to for future use if the `find.cc` needs to be reran.
 
 All of `find.cc` was made by me.
